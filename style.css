@@ -18,7 +18,7 @@ font-size:15px;
 .container{margin: 0 auto; width:1600px;}
 .stopka{clear:both; background-color:#E8BF95;width: 1600px;   height: 25px;  margin: 0 auto;text-align:center;font-size:20px;}
 body{background-color:#B08941; font-family:verdana;}
-ol{  list-style-type: none;
+.drz{  list-style-type: none;
   margin: 0;
   padding: 0;
   overflow: hidden;
